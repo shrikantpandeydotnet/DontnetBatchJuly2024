@@ -48,5 +48,10 @@ namespace ITExpertsEraJuly2024
         {
             Console.WriteLine("I am Method3");
         }
+
+        public void TestMethod()
+        {
+         Console.WriteLine("I am created by another person");
+        }
     }
 }
